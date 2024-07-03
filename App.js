@@ -360,8 +360,6 @@ const styles = StyleSheet.create({
     marginRight: 115,
     fontSize: 18,
     color: 'white',
-    // backgroundColor:'red',
-    // letterSpacing: 2,
     fontFamily: 'SpaceGrotesk-Bold',
   },
   cardHolderLabel: {
