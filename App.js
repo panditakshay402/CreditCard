@@ -311,7 +311,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     backgroundColor: 'grey',
-    marginTop: 59,
+    marginTop: 69,
   },
   card: {
     width: SCREEN_WIDTH - 40,
@@ -356,11 +356,12 @@ const styles = StyleSheet.create({
     marginVertical: 20,
   },
   cardNumber: {
-    marginTop: -20,
-    marginRight: 85,
-    fontSize: 20,
+    marginTop: -25,
+    marginRight: 115,
+    fontSize: 18,
     color: 'white',
-    letterSpacing: 2,
+    // backgroundColor:'red',
+    // letterSpacing: 2,
     fontFamily: 'SpaceGrotesk-Bold',
   },
   cardHolderLabel: {
@@ -381,23 +382,23 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
   cardHolder: {
-    fontSize: 18,
+    fontSize: 16,
     color: 'white',
     marginTop: -17,
     fontFamily: 'SpaceGrotesk-Bold',
   },
   expiryDate: {
-    fontSize: 17,
+    fontSize: 16,
     color: 'white',
     marginTop: -17,
-    marginLeft: 58,
+    marginLeft: 65,
     fontFamily: 'SpaceGrotesk-Bold',
   },
   networkLogoVisa: {
     width: 50,
     height: 30,
     marginTop: 10,
-    marginLeft: 60,
+    marginLeft: 23,
   },
   networkLogo: {
     width: 25,
