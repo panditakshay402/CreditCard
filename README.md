@@ -23,3 +23,6 @@ A React Native application that allows users to add credit cards with a smooth s
 ```bash
 cd react-native-credit-card-add
 npm install
+
+**Run:**
+npx expo run:android
