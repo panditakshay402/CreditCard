@@ -15,13 +15,13 @@ A React Native application that allows users to add credit cards with a smooth s
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/panditakshay402/react-native-credit-card-add.git
+   git clone https://github.com/panditakshay402/creditcard.git
 ## Installation
 
 **Dependencies:**
 
 ```bash
-cd react-native-credit-card-add
+cd creditcard
 npm install
 
 **Run:**
