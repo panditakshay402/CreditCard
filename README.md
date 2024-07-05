@@ -15,7 +15,7 @@ A React Native application that allows users to add credit cards with a smooth s
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/panditakshay402/creditcard](https://github.com/panditakshay402/React-Native-CreditCard).git
+   git clone https://github.com/panditakshay402/React-Native-CreditCard.git
 ## Installation
 
 **Dependencies:**
