@@ -26,5 +26,5 @@ npm install
 ```
 
 **Run:**
-```bash jhfjyf
+```bash 
 npx expo run:android
